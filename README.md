@@ -5,7 +5,6 @@ I’m a 2025 batch fresher from Tamil Nadu, passionate about Artificial Intellig
 I build practical, end-to-end projects that involve data preprocessing, model development, SQL, automation, and real-world problem solving.
 
 🔧 Tech Stack
-
 Languages:
 
 Python
