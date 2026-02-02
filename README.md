@@ -1,54 +1,98 @@
-🚀 Hi, I'm Ashish Jeffrey
-AI/ML Learner • Aspiring AI Associate • ML Engineer • ETL Developer
+# Hi 👋 I'm Ashish Jeffery
 
-I’m a 2025 batch fresher from Tamil Nadu, passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Data processing Pipelines.
-I build practical, end-to-end projects involving data preprocessing, model development, SQL workflows, and real-world problem solving.
+### AI / Machine Learning Engineer (Fresher)
+📍 India  
+🎯 Actively seeking AI / ML roles
 
-🔧 Tech Stack:
+---
 
-🧑‍💻 Languages:
-      🐍 Python
-      🗄️ SQL (MySQL & PostgreSQL)
+## 🚀 About Me
+I am a Machine Learning enthusiast with hands-on experience in building
+classification models, deep learning pipelines, and NLP applications.
+I enjoy working on real-world datasets and converting ML models into
+usable applications.
 
-🤖 Machine Learning:
-      🔍 Scikit-Learn
-      🧠 TensorFlow
-      ✨ NLP Models (T5)
-      🛠 Feature Engineering
-      🔄 Train–Test Pipelines
-      📊 Data Processing
-      📁 Pandas,🔢 NumPy
-      🧼 Data Cleaning & Transformation
+My primary interests include:
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI (currently learning)
+- Model Evaluation & Optimization
+- Applied AI Projects
 
-🛠 Tools:
-      📓 Jupyter Notebook
-      ☁️ Google Colab
-      🧩 Git & GitHub
-      💻 VS Code
 
-📈 Visualization:
-      📊 Matplotlib
-      🎨 Seaborn
+---
 
-⭐ Featured Projects:
+## 🧠 Technical Skills
 
-🔹 Face Attendance System (OpenCV + ML)
-      A real-time facial recognition system to detect, train, and recognize faces.
-      Automatically logs attendance with name, time, and date.
+**Programming**
+- Python
 
-🔹 NLP Text Summarizer (T5 Transformer)
-      End-to-end abstractive text summarization using T5 with preprocessing, fine-tuning, and evaluation.
+**Machine Learning**
+- Supervised & Unsupervised Learning
+- Classification Models
+- Feature Engineering
+- Model Evaluation
 
-🎯 Currently Learning
-      Machine Learning Algorithms
-      Gen AI
-      Communication Skills 
+**Deep Learning**
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Transformers (T5)
 
-📫 Contact:
-📧 Email: ashishjeffery@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/ashish-jeffery-ml/
-📍 Location: Chennai / Tamil Nadu, India
+**NLP**
+- Text Preprocessing
+- Abstractive Text Summarization
+- Hugging Face Transformers
 
-💼 Open to Opportunities:
-I’m actively looking for AI/ML/ETL roles.
-If my profile matches your requirements, feel free to connect!
+**Libraries & Tools**
+- NumPy, Pandas
+- Scikit-learn
+- TensorFlow / Keras
+- PyTorch
+- Streamlit
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+🔹 **T5 Text Summarization (Streamlit App)**  
+Abstractive text summarization using a fine-tuned T5 transformer model,
+deployed as an interactive Streamlit web application.
+
+🔹 **Insurance Claim Prediction**  
+Machine learning classification model to predict insurance claim likelihood
+based on customer and policy features.
+
+🔹 **Home Loan Default Prediction**  
+Built and compared Logistic Regression, Random Forest, and XGBoost models
+to predict loan default risk.
+
+🔹 **MNIST Digit Classification**  
+Implemented ANN and CNN models to classify handwritten digits from the MNIST dataset.
+
+🔹 **Shot Classification (NBA Analytics)**  
+Machine learning-based shot selection classification using player and game data.
+
+---
+
+## 📈 What I’m Currently Learning
+- Advanced Deep Learning techniques
+- Transformer fine-tuning (T5 and related models)
+- Model deployment best practices
+- Generative AI fundamentals (recently started)
+- LangChain basics for building LLM-powered applications
+
+
+---
+
+## 🤝 Open to Opportunities
+I am actively looking for **entry-level AI / Machine Learning roles**
+where I can contribute, learn, and grow as an ML engineer.
+
+📫 Feel free to connect with me:
+- **LinkedIn:** https://www.linkedin.com/in/ashish-jeffery-ml/
+- **Email:** ashishjeffrey@gmail.com
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
